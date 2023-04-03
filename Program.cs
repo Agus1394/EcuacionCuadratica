@@ -1,7 +1,7 @@
 ﻿/*
 Ecuación cuadrática:
 x1, x2// -b+-= raizCuadrada(b2-4.a.c)
-               ___________________
+         ______________________________
                     2.a
 
 Ingreso 3 valores
