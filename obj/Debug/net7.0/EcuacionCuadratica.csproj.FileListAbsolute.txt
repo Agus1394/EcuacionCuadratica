@@ -1,0 +1,15 @@
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\bin\Debug\net7.0\EcuacionCuadratica.exe
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\bin\Debug\net7.0\EcuacionCuadratica.deps.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\bin\Debug\net7.0\EcuacionCuadratica.runtimeconfig.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\bin\Debug\net7.0\EcuacionCuadratica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\bin\Debug\net7.0\EcuacionCuadratica.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.AssemblyInfoInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.AssemblyInfo.cs
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\refint\EcuacionCuadratica.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\EcuacionCuadratica.genruntimeconfig.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Practicas\EcuacionCuadratica\obj\Debug\net7.0\ref\EcuacionCuadratica.dll
